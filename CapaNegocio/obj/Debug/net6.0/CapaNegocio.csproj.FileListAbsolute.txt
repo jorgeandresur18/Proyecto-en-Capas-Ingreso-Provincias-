@@ -1,0 +1,45 @@
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\lucia\source\repos\POE_59DB\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+D:\Juka\PROYECTOS C#\POE_59DB\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll

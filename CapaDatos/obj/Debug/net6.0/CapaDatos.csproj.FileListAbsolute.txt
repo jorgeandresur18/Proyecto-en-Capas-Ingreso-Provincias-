@@ -1,0 +1,36 @@
+C:\Users\lucia\source\repos\POE_59DB\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\lucia\source\repos\POE_59DB\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\lucia\source\repos\POE_59DB\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\lucia\source\repos\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\lucia\source\repos\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\repos\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\lucia\source\repos\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\lucia\source\repos\POE_59DB\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\lucia\source\repos\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\lucia\source\repos\POE_59DB\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+D:\Juka\PROYECTOS C#\POE_59DB\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+D:\Juka\PROYECTOS C#\POE_59DB\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+D:\Juka\PROYECTOS C#\POE_59DB\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+D:\Juka\PROYECTOS C#\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+D:\Juka\PROYECTOS C#\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juka\PROYECTOS C#\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+D:\Juka\PROYECTOS C#\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+D:\Juka\PROYECTOS C#\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Juka\PROYECTOS C#\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+D:\Juka\PROYECTOS C#\POE_59DB\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+D:\Juka\PROYECTOS C#\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+D:\Juka\PROYECTOS C#\POE_59DB\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\Jorge\Downloads\POE_59DB\POE_59DB\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
